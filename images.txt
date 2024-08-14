@@ -18,3 +18,4 @@ docker.io/calico/node-driver-registrar:v3.26.0
 docker.io/calico/typha:v3.26.0
 docker.io/calico/apiserver:v3.26.0
 docker.io/calico/apiserver:v3.26.0
+kubernetesui/metrics-scraper:v1.0.8
