@@ -22,3 +22,4 @@ kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.1
 bitnami/git
+lizhenliang/django-app:v1
